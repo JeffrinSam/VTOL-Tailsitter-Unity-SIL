@@ -20,9 +20,8 @@ Future efforts will leverage the Unity simulation to generate synthetic datasets
 
 ---
 
-## Media Gallery
+## Media Gallery - Quick Preview
 
-| Hover Flight Demo | Force Visualization |
-|-------------------|---------------------|
-| [![Watch the hover flight video](https://img.youtube.com/vi/placeholder.jpg)](https://github.com/JeffrinSam/VTOL-Tailsitter-Unity-SIL/raw/d182d01d8b7b1b4337ca0761036153af11060a0e/Media/1.mp4) | [![Watch the force video](https://img.youtube.com/vi/placeholder.jpg)](https://github.com/JeffrinSam/VTOL-Tailsitter-Unity-SIL/raw/d182d01d8b7b1b4337ca0761036153af11060a0e/Media/force2.mp4) |
-| [1.mp4 (download / view)](https://github.com/JeffrinSam/VTOL-Tailsitter-Unity-SIL/raw/d182d01d8b7b1b4337ca0761036153af11060a0e/Media/1.mp4) | [force2.mp4 (download / view)](https://github.com/JeffrinSam/VTOL-Tailsitter-Unity-SIL/raw/d182d01d8b7b1b4337ca0761036153af11060a0e/Media/force2.mp4) |
+| Force Visualization | Flight Simulation |
+|---------------------|-------------------|
+| ![force2-](https://github.com/JeffrinSam/VTOL-Tailsitter-Unity-SIL/raw/8d9b2e7512377c32a7a4feba88897cc35028c423/Media/force2-.gif) | ![vtol](https://github.com/JeffrinSam/VTOL-Tailsitter-Unity-SIL/raw/8d9b2e7512377c32a7a4feba88897cc35028c423/Media/vtol.gif) |
